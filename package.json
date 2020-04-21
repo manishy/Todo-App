@@ -1,6 +1,6 @@
 {
   "name": "@inmanishy/toapp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -35,11 +35,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "na"
+    "url": "https://github.com/manishy/first-npm-package.git"
   },
   "keywords": [
     "na"
   ],
-  "author": "na",
+  "author": "manishy",
   "license": "UNLICENSED"
 }
